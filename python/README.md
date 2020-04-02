@@ -1,6 +1,6 @@
 ## Deprecated
 
-This Python code is being phased out and replaced with https://github.com/rpi-ws281x/rpi-ws281x-python
+This Python code has been replaced with https://github.com/rpi-ws281x/rpi-ws281x-python
 
 If you're just looking to install the Python library, you can: `sudo pip install rpi_ws281x` or `sudo pip3 install rpi_ws281x` depending on your Python version of choice or find releases here: https://github.com/rpi-ws281x/rpi-ws281x-python/releases
 
